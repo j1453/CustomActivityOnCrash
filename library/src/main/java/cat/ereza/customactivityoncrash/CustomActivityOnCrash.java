@@ -84,7 +84,6 @@ public final class CustomActivityOnCrash {
      *
      * @param context Context to use for obtaining the ApplicationContext. Must not be null.
      */
-    @RestrictTo(RestrictTo.Scope.LIBRARY)
     public static void install(@Nullable final Context context) {
         try {
             if (context == null) {
