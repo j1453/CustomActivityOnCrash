@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="customactivityoncrash_error_activity_error_occurred_explanation">An unexpected error occurred.\nSorry for the inconvenience.</string>
-    <string name="customactivityoncrash_error_activity_restart_app">Restart app</string>
-    <string name="customactivityoncrash_error_activity_close_app">Close app</string>
-    <string name="customactivityoncrash_error_activity_error_details">Error details</string>
-    <string name="customactivityoncrash_error_activity_error_details_title">Error details</string>
-    <string name="customactivityoncrash_error_activity_error_details_close">Close</string>
-    <string name="customactivityoncrash_error_activity_error_details_copy">Copy to clipboard</string>
-    <string name="customactivityoncrash_error_activity_error_details_copied">Copied to clipboard</string>
-    <string name="customactivityoncrash_error_activity_error_details_clipboard_label">Error information</string>
+     <string name="customactivityoncrash_error_activity_error_occurred_explanation">啊，遇到了个小问题。</string>
+    <string name="customactivityoncrash_error_activity_restart_app">扶我起来</string>
+    <string name="customactivityoncrash_error_activity_close_app">关闭App</string>
+    <string name="customactivityoncrash_error_activity_error_details">错误详情</string>
+    <string name="customactivityoncrash_error_activity_error_details_title">错误详情</string>
+    <string name="customactivityoncrash_error_activity_error_details_close">关闭</string>
+    <string name="customactivityoncrash_error_activity_error_details_copy">复制</string>
+    <string name="customactivityoncrash_error_activity_error_details_copied">复制成功</string>
+    <string name="customactivityoncrash_error_activity_error_details_clipboard_label">错误信息</string>
 </resources>
